@@ -1,0 +1,12 @@
+X:\GT\openshift-cpu-kill\cpu-kill\bin\Debug\netcoreapp2.1\cpu-kill.deps.json
+X:\GT\openshift-cpu-kill\cpu-kill\bin\Debug\netcoreapp2.1\cpu-kill.runtimeconfig.json
+X:\GT\openshift-cpu-kill\cpu-kill\bin\Debug\netcoreapp2.1\cpu-kill.runtimeconfig.dev.json
+X:\GT\openshift-cpu-kill\cpu-kill\bin\Debug\netcoreapp2.1\cpu-kill.dll
+X:\GT\openshift-cpu-kill\cpu-kill\bin\Debug\netcoreapp2.1\cpu-kill.pdb
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.csprojAssemblyReference.cache
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.AssemblyInfoInputs.cache
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.AssemblyInfo.cs
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.csproj.CoreCompileInputs.cache
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.dll
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.pdb
+X:\GT\openshift-cpu-kill\cpu-kill\obj\Debug\netcoreapp2.1\cpu-kill.genruntimeconfig.cache
