@@ -8,7 +8,10 @@ namespace cpu_kill
     {
         static void Main(string[] args)
         {
-            int percentage = 80;
+            int percentage = Int32.Parse(Environment.GetEnvironmentVariable("PORCENTAGEM") ?? "80");
+            Console.Out.WriteLine($"Processadores: {Environment.ProcessorCount}");
+            Console.Out.WriteLine($"Porcentagem: {percentage}");
+            
             for (int i = 0; i < Environment.ProcessorCount; i++)
             {
                 (new Thread(() =>
